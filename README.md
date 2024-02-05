@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I am Zeynep Ermis</h1>
 <h3 align="center">First-Class BSc Science Graduate</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-4706460855862906629&psig=AOvVaw2igA6b26YLlTN1KkeRhLpg&ust=1707244223547000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODA8b3qlIQDFQAAAAAdAAAAABBZ)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepermis&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepermis" /> </p>
 
 - 🌱 I’m currently learning **Java and React**
 
-- 📫 How to reach me **zzeyneppermis@gmail.com**
+- 📫 How to reach me : **zzeyneppermis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
