@@ -2,7 +2,7 @@
 
 - 🎓 Recent graduate with a first-class honours BSc in Computer Science at the University of East London
   
-- 🧑🏼‍💼 Working as teaching assistant at the University of East London
+- 🧑🏼‍💼 Working as teaching assistant 
 
 - 🌱 Currently learning **Java and React**
 
