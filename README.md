@@ -1,6 +1,6 @@
 ### Hi, I am Zeynep Ermis!
 
-- 🎓 Recent graduate with a first-class honours BSc in Computer Science at the University of East London
+- 🎓 Recent graduate with a first-class honours in BSc Computer Science at the University of East London
   
 - 🧑🏼‍💼 Working as teaching assistant 
 
