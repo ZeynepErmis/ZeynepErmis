@@ -4,7 +4,7 @@
   
 - 🧑🏼‍💼 Working as a teaching assistant 
 
-- 🌱 Currently learning **Java and React**
+- 🌱 Currently learning **Java (Spring Boot)**
 
 - 📫 How to reach me **zzeyneppermis@gmail.com**
 
