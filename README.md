@@ -24,10 +24,6 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeynepermis&show_icons=true&locale=en&layout=compact" alt="zeynepermis" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zeynepermis&show_icons=true&locale=en" alt="zeynepermis" />
 </p>
 
