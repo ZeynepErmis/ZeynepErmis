@@ -1,10 +1,8 @@
 ### Hi, I am Zeynep Ermis!
 
 - 🎓 Recent graduate with a first-class honours in BSc Computer Science at the University of East London
-  
-- 🧑🏼‍💼 Working as a teaching assistant 
-
-- 🌱 Currently learning **Java (Spring Boot)**
+ 
+- 🌱 Currently learning **Java (Spring Boot)** and  **HTML&CSS&JS**
 
 - 📫 How to reach me **zzeyneppermis@gmail.com**
 
